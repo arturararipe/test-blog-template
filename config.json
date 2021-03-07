@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://blog.arturararipe.co.uk",
+  "site_title": "Artur Araripe's Blog",
+  "site_description": "My personal thoughts on stuff that matters (or not)",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -11,9 +11,10 @@
     },
     {
       "keyword": "React"
-    }
+    },
+    "artur araripe, technology, simulation, virtualization, gaming"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "arturararipe"
 }
